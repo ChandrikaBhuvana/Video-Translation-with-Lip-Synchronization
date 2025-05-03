@@ -44,11 +44,11 @@ The system follows a sequential modular architecture as shown below:
 
 ### 🔄 Overall Pipeline Flow
 
-![Methodology Pipeline](./images/pipeline.png)
+![Methodology Pipeline](https://github.com/ChandrikaBhuvana/Video-Translation-with-Lip-Synchronization/blob/main/pipeline.png)
 
 ### 🧩 Component-wise Architecture
 
-![Model Architecture](https://i.imgur.com/your_component_image.png)
+![Model Architecture](https://github.com/ChandrikaBhuvana/Video-Translation-with-Lip-Synchronization/blob/main/architecture.png)
 
 
 ---
@@ -58,8 +58,6 @@ The system follows a sequential modular architecture as shown below:
 ### 🎬 Demo Video
 
 ▶️ **[Watch the Translated and Lipsynced Output](https://multilingual-video-translation.netlify.app/)**  
-*(Replace with actual demo link)*
-ttps://i.imgur.com/xyz5678.png) |
 
 
 
